@@ -33,6 +33,7 @@
     display: flex;
 }
 .sect_combos{
+    text-align: justify;
     margin-right: 15px;
     margin-bottom: 15px;
     border-top: 5px solid yellow;
@@ -42,4 +43,5 @@
     -moz-box-shadow: 17px 18px 20px 0px rgba(0,0,0,0.38);
     box-shadow: 17px 18px 20px 0px rgba(0,0,0,0.38);
     font-size: 20px;
+    width: 33%;
 }
