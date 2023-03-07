@@ -1,4 +1,6 @@
-
+body{
+    background-color: black;
+}
 h1{
     text-align: center;
     margin-left: 450px;
@@ -6,11 +8,48 @@ h1{
     margin-bottom: 50px;
     margin-top: 20px;
     padding-bottom: 5px;
+    background-color: rgb(255, 06, 141);
+    color: azure;
 }
 form{
     display: flex;
     flex-direction: column;
     padding-left: 500px;
     padding-right: 500px;
+
 }
-  
+  #nome{
+    margin-top: 10px;
+    margin-bottom: 10px ;
+    flex-direction: column;
+    border: 3px;
+    padding: 10px;
+    color: rgb(251, 251, 251);
+    color: black;
+  }
+#email{
+    margin-top: 10px;
+    margin-bottom: 10px ;
+    flex-direction: column;
+    border: 3px;
+    padding: 10px;
+    color: black;
+}
+#Mensagem{
+    margin-top: 10px;
+    margin-bottom: 10px ;
+    flex-direction: column;
+    border: 3px;
+    padding: 30px;
+    color: black;
+}
+#submit{
+    text-align: center;
+    margin-top: 30px;
+    border: 3px;
+    padding: 10px;
+    background-color:rgb(226, 66, 154);
+}
+.feedback1{
+    color: white;
+}
