@@ -6,6 +6,7 @@ body{
 #title{
     text-align: center;
     font-size: 50px;
+    text-shadow: 4px 4px 4px #FF068D;
 }
 #article_title{
     margin-top: 0%;
@@ -13,14 +14,14 @@ body{
 #article1{
     margin-right: 15px;
     margin-left: 15px;
-    border-left: 7px solid goldenrod;
+    border-left: 7px solid rgba(255,06,141);
     border-radius: 10px;
     padding: 15px;
     background-color: black;   
-    -webkit-box-shadow: 17px 18px 59px 0px rgba(255,255,255,0.42);
-    -moz-box-shadow: 17px 18px 59px 0px rgba(255,255,255,0.42);
-    box-shadow: 17px 18px 59px 0px rgba(255,255,255,0.42);
-    font-size: 20px;
+    -webkit-box-shadow: 17px 18px 59px 0px rgba(255,06,141,0.42);
+    -moz-box-shadow: 17px 18px 59px 0px rgba(255,06,141,0.42);
+    box-shadow: 17px 18px 59px 0px rgba(255,06,141,0.42);
+    font-size: 25px;
 
 }
 #principal{
@@ -43,13 +44,13 @@ body{
     text-align: justify;
     margin-right: 15px;
     margin-bottom: 15px;
-    border-top: 7px solid goldenrod;
+    border-top: 7px solid rgba(255,06,141);
     border-radius: 10px;
     padding: 15px;
     background-color: black;
-    -webkit-box-shadow: 17px 18px 59px 0px rgba(255,255,255,0.42);
-    -moz-box-shadow: 17px 18px 59px 0px rgba(255,255,255,0.42);
-    box-shadow: 17px 18px 59px 0px rgba(255,255,255,0.42);
+    -webkit-box-shadow: 17px 18px 59px 0px rgba(255,06,141,0.42);
+    -moz-box-shadow: 17px 18px 59px 0px rgba(255,06,141,0.42);
+    box-shadow: 17px 18px 59px 0px rgba(255,06,141,0.42);
     font-size: 20px;
     width: 33%;
 }
