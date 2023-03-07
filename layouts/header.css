@@ -31,15 +31,9 @@ header{
     display: flex;
     padding-right: 50px;
 }
-nav ul{
+.nav ul{
     margin: 0;
     padding: 0;
     display: flex;
     margin-left: 28px;
-}
-nav li:hover{
-    background-color: purple;
-    border-radius: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
 }
