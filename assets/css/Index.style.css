@@ -1,5 +1,11 @@
+body{
+    background-color: black;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 #title{
     text-align: center;
+    font-size: 50px;
 }
 #article_title{
     margin-top: 0%;
@@ -7,12 +13,13 @@
 #article1{
     margin-right: 15px;
     margin-left: 15px;
-    border-left: 5px solid yellow;
+    border-left: 7px solid goldenrod;
     border-radius: 10px;
     padding: 15px;
-    -webkit-box-shadow: 17px 18px 20px 0px rgba(0,0,0,0.38);
-    -moz-box-shadow: 17px 18px 20px 0px rgba(0,0,0,0.38);
-    box-shadow: 17px 18px 20px 0px rgba(0,0,0,0.38);
+    background-color: black;   
+    -webkit-box-shadow: 17px 18px 59px 0px rgba(255,255,255,0.42);
+    -moz-box-shadow: 17px 18px 59px 0px rgba(255,255,255,0.42);
+    box-shadow: 17px 18px 59px 0px rgba(255,255,255,0.42);
     font-size: 20px;
 
 }
@@ -36,12 +43,13 @@
     text-align: justify;
     margin-right: 15px;
     margin-bottom: 15px;
-    border-top: 5px solid yellow;
+    border-top: 7px solid goldenrod;
     border-radius: 10px;
     padding: 15px;
-    -webkit-box-shadow: 17px 18px 20px 0px rgba(0,0,0,0.38);
-    -moz-box-shadow: 17px 18px 20px 0px rgba(0,0,0,0.38);
-    box-shadow: 17px 18px 20px 0px rgba(0,0,0,0.38);
+    background-color: black;
+    -webkit-box-shadow: 17px 18px 59px 0px rgba(255,255,255,0.42);
+    -moz-box-shadow: 17px 18px 59px 0px rgba(255,255,255,0.42);
+    box-shadow: 17px 18px 59px 0px rgba(255,255,255,0.42);
     font-size: 20px;
     width: 33%;
 }
