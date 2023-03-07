@@ -21,7 +21,7 @@ body{
     -webkit-box-shadow: 17px 18px 59px 0px rgba(255,06,141,0.42);
     -moz-box-shadow: 17px 18px 59px 0px rgba(255,06,141,0.42);
     box-shadow: 17px 18px 59px 0px rgba(255,06,141,0.42);
-    font-size: 20px;
+    font-size: 25px;
 
 }
 #principal{
@@ -53,4 +53,22 @@ body{
     box-shadow: 17px 18px 59px 0px rgba(255,06,141,0.42);
     font-size: 20px;
     width: 33%;
+}
+#title_depoimento {
+    margin-right: 999px;
+    padding: 5px;
+    border: solid 1.5px rgba(255, 06, 141);
+    -webkit-box-shadow: 17px 18px 59px 0px rgba(255, 06, 141,0.42);
+    -moz-box-shadow: 17px 18px 59px 0px rgba(255, 06, 141,0.42);
+    box-shadow: 17px 18px 59px 0px rgba(255, 06, 141,0.42);
+}
+.div_depoimento {
+    display: flex;
+    padding: 7px;
+    border-left: solid 1.5px rgba(255, 06, 141);
+    -webkit-box-shadow: 17px 18px 59px 0px rgba(255, 06, 141,0.42);
+    -moz-box-shadow: 17px 18px 59px 0px rgba(255, 06, 141,0.42);
+    box-shadow: 17px 18px 59px 0px rgba(255, 06, 141,0.42);
+    margin-top: 20px;
+    margin-right: 10px;
 }

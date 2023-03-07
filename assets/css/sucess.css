@@ -6,7 +6,7 @@ body{
     background-color: black;
 }
 #texto{
-    color: rgb(245, 94, 145);
+    color: rgb(255, 06, 141);
     font-size: larger;
     font-family:serif;
     margin-top: 5px;
@@ -14,8 +14,15 @@ body{
 }
 #botao{
    text-align: center;
-    background-color:rgb(245, 94, 145) ;
+    background-color:rgb(255, 06, 141) ;
 }
 #centro{
     text-align: center;
+}
+#header{
+    width: 100%;
+}
+#footer{
+    margin-bottom: 0%;
+    width: 100%;
 }
