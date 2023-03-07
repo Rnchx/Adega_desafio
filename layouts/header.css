@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+}
+header{
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    color: whitesmoke;
+    position: fixed;
+    padding: 20px;
+}
+.container{
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+}
+.txtul{
+    list-style: none;
+    display: flex;
+}
+.txtul1{
+    list-style: none;
+    display: flex;
+    padding-right: 50px;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-left: 28px;
+}
+nav li:hover{
+    background-color: purple;
+    border-radius: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
