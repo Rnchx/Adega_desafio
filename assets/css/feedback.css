@@ -2,6 +2,14 @@ body{
  
    
 }
+h1{
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    padding-bottom: 5px;
+}
 form{
     display: flex;
     flex-direction: column;
@@ -9,4 +17,3 @@ form{
     padding-right: 500px;
 }
   
-}
