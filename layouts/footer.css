@@ -2,4 +2,6 @@ footer{
     text-align: center;
     color: black;
     margin-top: 60%;
+    margin-left: -6px;
+    margin-right: -6px;
 }
