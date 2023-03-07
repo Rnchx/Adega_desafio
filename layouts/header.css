@@ -36,11 +36,21 @@ header {
     padding-right: 50px;
 }
 
-.nav ul {
+nav ul {
+    list-style: none;
     margin: 0;
     padding: 0;
     display: flex;
     margin-left: 28px;
+}
+
+#firstlink {
+    margin-right: 10px;
+}
+
+nav a {
+    color: whitesmoke;
+    text-decoration: none;
 }
 
 nav li:hover {
