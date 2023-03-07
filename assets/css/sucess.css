@@ -12,3 +12,10 @@ body{
     margin-top: 10px;
     text-align: center;
 }
+#botao{
+   text-align: center;
+    background-color:rgb(245, 94, 145) ;
+}
+#centro{
+    text-align: center;
+}
