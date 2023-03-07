@@ -65,10 +65,14 @@ body{
 .div_depoimento {
     display: flex;
     padding: 7px;
-    border-left: solid 1.5px rgba(255, 06, 141);
+    border-left: solid 7px rgba(255, 06, 141);
     -webkit-box-shadow: 17px 18px 59px 0px rgba(255, 06, 141,0.42);
     -moz-box-shadow: 17px 18px 59px 0px rgba(255, 06, 141,0.42);
     box-shadow: 17px 18px 59px 0px rgba(255, 06, 141,0.42);
     margin-top: 20px;
     margin-right: 10px;
+}
+#h3_depoimentos {
+    display: flex;
+    align-items: center;
 }
