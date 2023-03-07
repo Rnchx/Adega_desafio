@@ -1,5 +1,12 @@
 body{
-    margin: 0%;
-    background-repeat: no-repeat;
-    background-size: cover;
+ 
+   
+}
+form{
+    display: flex;
+    flex-direction: column;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+  
 }
